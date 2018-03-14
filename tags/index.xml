@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on catchersnake</title>
+    <link>https://catchersnake.github.io/tags/</link>
+    <description>Recent content in Tags on catchersnake</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <managingEditor>catchersnake@github.io</managingEditor>
+    <webMaster>catchersnake@github.io</webMaster>
+    <lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://catchersnake.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>As Pills</title>
+      <link>https://catchersnake.github.io/tags/as-pills/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <author>catchersnake@github.io</author>
+      <guid>https://catchersnake.github.io/tags/as-pills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>As Shoots</title>
+      <link>https://catchersnake.github.io/tags/as-shoots/</link>
+      <pubDate>Mon, 19 Feb 2018 00:00:00 +0000</pubDate>
+      <author>catchersnake@github.io</author>
+      <guid>https://catchersnake.github.io/tags/as-shoots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cycle</title>
+      <link>https://catchersnake.github.io/tags/cycle/</link>
+      <pubDate>Sat, 03 Feb 2018 00:00:00 +0000</pubDate>
+      <author>catchersnake@github.io</author>
+      <guid>https://catchersnake.github.io/tags/cycle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pills</title>
+      <link>https://catchersnake.github.io/tags/pills/</link>
+      <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
+      <author>catchersnake@github.io</author>
+      <guid>https://catchersnake.github.io/tags/pills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post Cycle</title>
+      <link>https://catchersnake.github.io/tags/post-cycle/</link>
+      <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
+      <author>catchersnake@github.io</author>
+      <guid>https://catchersnake.github.io/tags/post-cycle/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
