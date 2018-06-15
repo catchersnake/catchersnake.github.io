@@ -78,10 +78,6 @@
   </url>
   
   <url>
-    <loc>https://catchersnake.github.io/page/about/</loc>
-  </url>
-  
-  <url>
     <loc>https://catchersnake.github.io/tags/as-pills/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -101,11 +97,6 @@
   <url>
     <loc>https://catchersnake.github.io/tags/cycle/</loc>
     <lastmod>2018-02-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://catchersnake.github.io/page/</loc>
     <priority>0</priority>
   </url>
   
